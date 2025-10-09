@@ -30,7 +30,7 @@ Sistem otomatik olarak gerekli tabloları oluşturacak ve örnek verileri ekleye
 
 ## 📸 Ekran Görüntüleri
 
-https://github.com/EagleSoft461/eag-school-system/blob/main/Screenshot%202025-10-09%20175357.png
+Screenshot%202025-10-09%20175357.png
 
 ## 👨‍💻 Geliştirici
 
