@@ -31,3 +31,5 @@ Sistem otomatik olarak gerekli tabloları oluşturacak ve örnek verileri ekleye
 ## 📸 Ekran Görüntüleri
 
 ![ Ana ](https://github.com/EagleSoft461/eag-school-system/blob/main/Screenshot%202025-10-09%20175357.png)
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-FFDD00?style=flat-square)](https://buymeacoffee.com/Eaglesss)
